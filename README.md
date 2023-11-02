@@ -1,4 +1,5 @@
 Company Management System (CMS)
+
 The Company Management System is a robust web application developed using Java Server Pages (JSP) and Servlets to enhance the management processes within an organization. This system provides a user-friendly and efficient platform for managing various aspects of the business, such as employee data, projects, tasks, and resource allocation.
 
 Key Features
